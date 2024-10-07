@@ -72,11 +72,11 @@ def view_classify(img, ps, version="MNIST"):
     fig, (ax1, ax2) = plt.subplots(figsize=(6,9), ncols=2)
     ax1.imshow(img.resize_(1, 28, 28).numpy().squeeze())
     ax1.axis('off')
-    ax2.barh(np.arange(10), ps)
+    ax2.barh(np.arange(16), ps)
     ax2.set_aspect(0.1)
-    ax2.set_yticks(np.arange(10))
+    ax2.set_yticks(np.arange(16))
     if version == "MNIST":
-        ax2.set_yticklabels(np.arange(10))
+        ax2.set_yticklabels(np.arange(16))
     elif version == "Fashion":
         ax2.set_yticklabels(['T-shirt/top',
                             'Trouser',
