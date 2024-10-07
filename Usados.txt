@@ -1,0 +1,53 @@
+-------------------- Lista completa ----------------------
+apple_pie -> SI
+Baked_potato -> SI
+burger -> SI
+butter_naan
+chai
+chapati
+cheesecake -> SI
+chicken_curry -> SI
+chole_bhature
+Crispy Chicken -> SI
+dal_makhani
+dhokla
+Donut -> SI
+fried_rice
+Fries -> SI
+Hot Dog -> SI
+ice cream -> SI
+idli
+jalebi
+kaathi rolls
+kadai paneer
+kulfi
+masala_dosa
+momos
+omelette -> SI
+paani_puri
+pakode
+pav bhaji
+pizza -> SI
+samosa
+sandwich -> SI
+sushi -> SI
+taco -> SI
+taquito -> SI
+
+-------------------- Lista usada ----------------------
+apple_pie
+Baked_potato
+burger
+cheesecake
+chicken_curry
+Crispy Chicken
+Donut
+Fries
+Hot Dog
+ice cream
+omelette
+pizza
+sandwich
+sushi
+taco
+taquito
